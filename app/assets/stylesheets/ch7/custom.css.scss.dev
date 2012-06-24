@@ -129,7 +129,7 @@ footer {
 				padding-top: 0;
 			}
 			span {
-				display: block;
+				disply: block;
 				margin-bottom: 3px;
 				line-height:  1;
 			}
